@@ -1,0 +1,4 @@
+interface:
+  display_name: "Configure Codex HUD"
+  short_description: "Customize native Codex status line items"
+  default_prompt: "Use $codex-hud-configure to customize my Codex status line."

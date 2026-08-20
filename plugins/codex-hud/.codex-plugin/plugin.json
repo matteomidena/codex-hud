@@ -1,0 +1,34 @@
+{
+  "name": "codex-hud",
+  "version": "0.1.0",
+  "description": "A native status-line HUD for Codex with setup and configuration skills.",
+  "author": {
+    "name": "Matteo",
+    "url": "https://github.com/mmatteo23"
+  },
+  "homepage": "https://github.com/mmatteo23/codex-hud",
+  "repository": "https://github.com/mmatteo23/codex-hud",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "hud",
+    "status-line",
+    "context",
+    "usage",
+    "git"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex HUD",
+    "shortDescription": "Configure a useful native Codex status line.",
+    "longDescription": "See model, project, Git, task progress, context health, usage limits, and session state in Codex's native terminal footer.",
+    "developerName": "Matteo",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://github.com/mmatteo23/codex-hud",
+    "defaultPrompt": [
+      "Set up my Codex HUD.",
+      "Configure which items appear in my Codex status line."
+    ]
+  }
+}

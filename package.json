@@ -1,0 +1,14 @@
+{
+  "name": "codex-hud",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Native status-line HUD plugin for Codex",
+  "type": "module",
+  "scripts": {
+    "check": "node --check plugins/codex-hud/scripts/codex-hud.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

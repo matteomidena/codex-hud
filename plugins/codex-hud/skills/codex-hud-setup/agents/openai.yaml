@@ -1,0 +1,4 @@
+interface:
+  display_name: "Set up Codex HUD"
+  short_description: "Install a useful native Codex status line"
+  default_prompt: "Use $codex-hud-setup to set up my Codex status line."
